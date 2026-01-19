@@ -1,7 +1,6 @@
 <div align="center">
   <img height="150" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
   <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=0xsreejith.0xsreejith" />
   <h1>Hey there, I'm Sreejith 👋</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Flutter+Developer+📱;Freelance+Developer+💼;Bug+Bounty+Hunter+🔐;Cybersecurity+Enthusiast+🛡️;CTF+Player+🏴;Open+Source+Contributor+✨" />
 </div>
