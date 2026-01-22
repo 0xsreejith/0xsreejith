@@ -34,7 +34,8 @@
 ### 🎨 Frameworks & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -88,7 +89,7 @@
 | 💼 Freelancing | Client projects & solutions |
 | 🔒 Security | Bug bounties & research |
 | 🏴 CTFs | Web & mobile challenges |
-| 📚 Learning | Flutter + cybersecurity |
+| 📚 Learning | React Native with Expo |
 
 ---
 
@@ -98,7 +99,7 @@
 - 💼 Working on freelance projects  
 - 🐛 Hunting security bugs  
 - 🧩 Solving CTF challenges  
-- 📖 Learning new security techniques  
+- 📖 Learning React Native with Expo  
 - 🤝 Open to collaboration  
 
 ---
