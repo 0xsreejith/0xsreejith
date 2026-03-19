@@ -99,13 +99,7 @@
 
 ---
 
-## 🏆 Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xsreejith&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4"/>
-</div>
-
----
 
 ## 🎯 Mission Board
 
@@ -127,10 +121,9 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/0xsreejith/0xsreejith/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/0xsreejith/0xsreejith/main/snack-game.svg" alt="snake animation" alt="snake animation"/>
 </div>
 
-> To activate the snake, add `.github/workflows/snake.yml` → [Platane/snk](https://github.com/Platane/snk)
 
 ---
 
