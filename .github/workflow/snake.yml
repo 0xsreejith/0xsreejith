@@ -30,31 +30,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
-
----
-
-### Step 4 — Enable Actions permissions
-
-1. Go to your repo → **Settings**
-2. Click **Actions** → **General**
-3. Under *Workflow permissions* → select **Read and write permissions**
-4. Click **Save**
-
----
-
-### Step 5 — Run it manually the first time
-
-1. Go to your repo → **Actions** tab
-2. Click **Generate Snake** on the left
-3. Click **Run workflow** → **Run workflow**
-4. Wait ~1 minute for it to finish ✅
-
----
-
-### Step 6 — Check it worked
-
-After it runs, you should see a new branch called **`output`** in your repo with these files inside:
-```
-output branch/
-├── github-contribution-grid-snake.svg
-└── github-contribution-grid-snake-dark.svg
